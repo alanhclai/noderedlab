@@ -3,6 +3,7 @@
     "version"      : "0.4.20",
     "dependencies": {
         "when": "~3.x",
+        "random":"0.0.5",
         "mongodb": "~1.4.x",
         "nano": "~5.11.0",
         "cfenv":"~1.0.0",
